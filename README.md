@@ -60,8 +60,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=it-awonugba" alt="GitHub Streak" /></a>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=it-awonugba)](https://git.io/streak-stats)
 
 ###
