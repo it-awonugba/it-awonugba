@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Isaac from Redhill<br><br>- 🔭 I’m working as a React Developer<br>- 📚 I'm currently learning .Net<br>- ⚡ In my free time I like playing football with friends</p>
+<p align="left">I'm <em>Isaac</em> from <em>Redhill</em><br><br>- 🔭 I’m working as a <em>React Developer</em><br>- 📚 I'm currently learning <em>.Net</em><br>- ⚡ In my free time I like playing football with friends</p>
 
 ###
 
