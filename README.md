@@ -4,10 +4,15 @@
 
 ###
 
-<div style="display: flex; flex-direction: row; justify-content: center; border: 1px;">
-  <a href="https://www.linkedin.com/in/isaacawonugba"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
- 
+<div align="center">
+  <table>
+  <tr>
+  <td><a href="https://www.linkedin.com/in/isaacawonugba"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a></td>
+  <td>
   <a  href="https://x.com/it_awonugba"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+  </td>
+  </tr>
+  </table>
 </div>
 
 ###
