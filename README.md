@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=it_awonugba.it_awonugba)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=${it_awonugba}.${it_awonugba})
 </div>
 
 ###
